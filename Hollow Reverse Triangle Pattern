@@ -1,0 +1,17 @@
+let output = "";
+let spaceHolder = "";
+const n = 5;
+
+for (i = n; i > 0; i--) {
+  output = "";
+  for (j = 0; j < i; j++) {
+    if ((i === 4 && j === 1) || (i === 4 && j === 2) || (i === 3 && j === 1)) {
+      output += "  ";
+    } else {
+      output += "* ";
+    }
+  }
+  output = spaceHolder + output;
+  console.log(output);
+  spaceHolder += " ";
+}
