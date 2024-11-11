@@ -1,3 +1,5 @@
+//Reverse Number Triangle Pattern
+
 let output = "";
 let spaceHolder = "";
 let numberHolder = "";

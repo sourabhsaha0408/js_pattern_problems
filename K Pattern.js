@@ -1,5 +1,7 @@
+//K Pattern
+
 let output = "";
-const n = 10;
+const n = 9;
 
 for (i = n; i > 0; i--) {
   output = "";

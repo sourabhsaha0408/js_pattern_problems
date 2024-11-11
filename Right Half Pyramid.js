@@ -1,3 +1,5 @@
+//Right Half Pyramid
+
 let output = "";
 
 for (i = 0; i < 5; i++) {

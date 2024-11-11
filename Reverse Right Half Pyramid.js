@@ -1,3 +1,5 @@
+//Reverse Right Half Pyramid
+
 let output = "";
 
 for (i = 5; i >0; i--) {

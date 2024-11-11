@@ -1,3 +1,5 @@
+//Number Increasing Reverse Pyramid
+
 let output = "";
 
 for (i = 5; i > 1; i--) {

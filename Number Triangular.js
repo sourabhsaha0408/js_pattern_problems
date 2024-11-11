@@ -1,5 +1,7 @@
+//Number Triangular
+
 let output = "";
-const n = 9;
+const n = 4;
 
 for (i = 0; i < n; i++) {
   output = "";

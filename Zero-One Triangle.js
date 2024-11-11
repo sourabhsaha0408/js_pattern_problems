@@ -1,3 +1,5 @@
+//Zero-One Triangle
+
 let output = "";
 const n = 5;
 

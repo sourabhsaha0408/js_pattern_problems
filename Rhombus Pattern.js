@@ -1,3 +1,5 @@
+//Rhombus Pattern
+
 let output = "";
 let starHolder = "";
 let spaceHolder = "";

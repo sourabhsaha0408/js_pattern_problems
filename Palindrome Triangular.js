@@ -1,5 +1,7 @@
+//Palindrome Triangular
+
 let output = "";
-const n = 10;
+const n = 1;
 let x = 1;
 let y = 1;
 

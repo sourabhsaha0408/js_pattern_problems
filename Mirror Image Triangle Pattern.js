@@ -1,6 +1,8 @@
+//Mirror Image Triangle Pattern
+
 let output = "";
 let spaceHolder = "";
-const n = 10;
+const n = 9;
 
 for (i = 1; i < n + 1; i++) {
   output = "";

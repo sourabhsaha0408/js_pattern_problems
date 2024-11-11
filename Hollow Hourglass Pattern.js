@@ -1,5 +1,7 @@
+//Hollow Hourglass Pattern
+
 let output = "";
-const n = 10;
+const n = 9;
 
 for (i = 0; i < n; i++) {
   output = "";

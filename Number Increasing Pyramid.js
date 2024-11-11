@@ -1,3 +1,5 @@
+//Number Increasing Pyramid
+
 let output = "";
 
 for (i = 1; i < 5; i++) {

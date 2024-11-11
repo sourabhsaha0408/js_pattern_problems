@@ -1,3 +1,5 @@
+//Number Changing Pyramid
+
 let output = "";
 let sum = 0;
 
