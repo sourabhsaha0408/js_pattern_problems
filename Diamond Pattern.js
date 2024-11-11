@@ -1,7 +1,7 @@
 //Diamond Pattern
 
 let output = "";
-const n = 9;
+const n = 10;
 
 for (i = 0; i < n; i++) {
   output = "";
